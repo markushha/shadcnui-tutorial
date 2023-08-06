@@ -8,7 +8,7 @@ import Footer from '@/components/layout/footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'shadcn/ui',
+  title: 'shadcn/ui tutorial',
   description: 'Build websites easily with shadcn/ui',
 }
 
