@@ -8,7 +8,7 @@ export default function Navbar() {
     <div className="w-full sticky bg-inherit backdrop-blur-xl top-0 border-b border-slate-200 dark:border-slate-800">
       <div className="mx-auto max-w-[90%] sm:max-w-[80%] md:max-w-[75%] lg:max-w-[70%] flex items-center justify-between p-4">
         <Link href="/" className="font-bold text-xl sm:text-xl tracking-tighter">
-          shadcn/ui
+          markushha
         </Link>
         <div className="flex items-center">
           <Link

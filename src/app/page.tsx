@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="flex flex-col mx-auto min-h-screen items-center max-w-[90%] sm:max-w-[80%] md:max-w-[75%] lg:max-w-[70%]">
       <div className="flex items-center flex-col mt-36 text-center">
-        <p className="text-5xl md:text-7xl font-medium tracking-tighter">
+        <p className="text-5xl md:text-6xl lg:text-7xl font-medium tracking-tighter">
           Welcome to&nbsp;
           <Link
             target="_blank"
@@ -18,10 +18,10 @@ export default function Home() {
             shadcn/ui
           </Link>
         </p>
-        <p className="mt-3 text-4xl md:text-6xl font-medium tracking-tighter">
-          New way of creating beatiful websites
+        <p className="mt-3 text-3xl md:text-4xl lg:text-6xl font-medium tracking-tighter">
+          New way of creating beatiful&nbsp;websites
         </p>
-        <p className="tracking-tight mt-3 text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500 text-4xl md:text-6xl font-medium">
+        <p className="tracking-tight mt-3 text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500 text-3xl md:text-4xl lg:text-6xl font-medium">
           Now with every framework.
         </p>
         <div className="mt-4 flex">
